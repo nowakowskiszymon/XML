@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dokument>
 	<katalog>
-		<nazwa>Windows</nazwa>
-	</katalog>
-	<plik>
-		<nazwa>Windows/regedit.exe</nazwa>
-		<wielkosc>427008</wielkosc>
-	</plik>
-	<katalog>
-		<nazwa>Windows/debug</nazwa>
-	</katalog>
-	<katalog>
-		<nazwa>Windows/debug/mrt.log</nazwa>
-		<wielkosc>3116</wielkosc>
-	</katalog>
-	<katalog>
-		<nazwa>Windows/debug/PASSWD.log</nazwa>
-		<wielkosc>0</wielkosc>
+        Windows
+		<plik>Windows/regedit.exe
+			<nazwa>regedit.exe</nazwa>
+			<wielkosc>427008</wielkosc>
+		</plik>
+		<katalog>Windows/debug
+			<nazwa>debug</nazwa>
+			<plik>Windows/debug/mrt.log
+				<nazwa>mrt.log</nazwa>
+				<wielkosc>3116</wielkosc>
+			</plik>
+			<plik>Windows/debug/PASSWD.log
+				<nazwa>PASSWD.log</nazwa>
+				<wielkosc>0</wielkosc>
+			</plik>
+		</katalog>
 	</katalog>
 </dokument>
