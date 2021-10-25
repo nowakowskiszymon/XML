@@ -1,26 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dokument>
 	<katalog>
-		<atrybuty>
-nazwa="Windows";
-</atrybuty>
-	</katalog>
-	<file type="katalog">
 		<nazwa>Windows</nazwa>
-	</file>
-	<file type="plik">
+	</katalog>
+	<plik>
 		<nazwa>Windows/regedit.exe</nazwa>
 		<wielkosc>427008</wielkosc>
-	</file>
-	<file type="katalog">
+	</plik>
+	<katalog>
 		<nazwa>Windows/debug</nazwa>
-	</file>
-	<file type="plik">
+	</katalog>
+	<katalog>
 		<nazwa>Windows/debug/mrt.log</nazwa>
 		<wielkosc>3116</wielkosc>
-	</file>
-	<file type="plik">
-		<nazwa>Windows</nazwa>
+	</katalog>
+	<katalog>
+		<nazwa>Windows/debug/PASSWD.log</nazwa>
 		<wielkosc>0</wielkosc>
-	</file>
+	</katalog>
 </dokument>
