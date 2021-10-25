@@ -1,1 +1,38 @@
+Windows (folder)
+Windows/regedit.exe 427008
+Windows/debug (folder)
+Windows/debug/mrt.log 3116
+Windows/debug/PASSWD.log 
 
+<?xml version='1.0' charset'UTF-8'?>
+<dokument>
+<katalog>
+<atrybuty>
+nazwa="Windows";
+</atrybuty>
+</katalog>
+
+<plik>
+<atrybuty>
+nazwa="Windows/regedit.exe"; wielkosc="427008";
+</atrybuty>
+</plik>
+
+<katalog>
+<atrybuty>
+nazwa="Windows/debug";
+</atrybuty>
+</katalog>
+
+<plik>
+<atrybuty>
+nazwa="Windows/debug/mrt.log"; wielkosc="3116"
+</atrybuty>
+</plik>
+
+<plik>
+<atrybuty>
+nazwa="Windows/debug/PASSWD.log";  wielkosc="0"
+</atrybuty>
+</plik>
+</dokument>
