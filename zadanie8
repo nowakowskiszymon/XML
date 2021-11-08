@@ -2,12 +2,9 @@
 <planZajec>
 	<grupa>S22-31
 		
-		
 		<dzienTygodnia>poniedziałek
 			
-			
 			<nazwaPrzedmiotu>Standardy XML
-				
 				
 				<szczegoly>
 					<prowadzacy>Bartosz Marcinkowski
@@ -18,23 +15,20 @@
 			</nazwaPrzedmiotu>
 			<nazwaPrzedmiotu>Python
 				
-				
 				<szczegoly>
 					<prowadacy>Patrycja Krauze-Maślankowska</prowadacy>
 					<sala>C-36</sala>
 					<godzina>09:45</godzina>
 				</szczegoly>
 			</nazwaPrzedmiotu>
-			<nazwaPrzedmiotu>Komunikacja międzykulturowa
-				
+            			<nazwaPrzedmiotu>Komunikacja międzykulturowa
 				<szczegoly>
 					<prowadacy>Joanna Litwin</prowadacy>
 					<sala>WZ-306</sala>
 					<godzina>11:30</godzina>
 				</szczegoly>
 			</nazwaPrzedmiotu>
-			<nazwaPrzedmiotu>Sieci komputerowe
-				
+                        			<nazwaPrzedmiotu>Sieci komputerowe
 				<szczegoly>
 					<prowadacy>Marek Markowski</prowadacy>
 					<sala>C-25</sala>
@@ -42,7 +36,7 @@
 				</szczegoly>
 			</nazwaPrzedmiotu>
 		</dzienTygodnia>
-		<dzienTygodnia>piątek
+        <dzienTygodnia>piątek
         		</dzienTygodnia>
 	</grupa>
 </planZajec>
