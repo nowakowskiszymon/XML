@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+	<spolka>CD PROJEKT 
+		<kod>CDR	
+			<obroty>Standardy XML
+				<kurs_odniesienia></kurs_odniesienia>
+				<kurs_zamkniecia></kurs_zamkniecia>
+			</obroty>
+			<wolumen_obrotu></wolumen_obrotu>
+			<obroty>
+				<wartosc_obrotu></wartosc_obrotu>
+				<kapitalizacja></kapitalizacja>
+				<zysk></zysk>
+				<cena_zysk></cena_zysk>
+				<cena_wk></cena_wk>
+			</obroty>
+		</kod>
+	</spolka>
+</data>
